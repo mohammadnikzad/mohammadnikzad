@@ -41,20 +41,6 @@ I'm a **Backend Developer** with **7+ years of experience**, specializing in bui
 - Integrated payment gateway and secure user authentication.
 - Optimized website performance for seamless shopping experiences.
 
-### [JPVision](https://portal.jpvision.it)
-
-**Tech Stack:** ReactJS, Express, MongoDB
-
-- Created a vibrant **art & craft website** showcasing creative works.
-- Implemented dynamic product displays and streamlined database management.
-
-### [Ryan Funding](https://www.ryan-funding.ir
-
-**Tech Stack:** ReactJS, Express, MongoDB
-
-- Created a vibrant **art & craft website** showcasing creative works.
-- Implemented dynamic product displays and streamlined database management.
-
 ---
 
 ## 🎓 **Education**
