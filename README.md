@@ -41,7 +41,7 @@ I'm a **Backend Developer** with **7+ years of experience**, specializing in bui
 - Integrated payment gateway and secure user authentication.
 - Optimized website performance for seamless shopping experiences.
 
-### [JPVision](https://www.portal.jpvision.it)
+### [JPVision](https://portal.jpvision.it)
 
 **Tech Stack:** ReactJS, Express, MongoDB
 
