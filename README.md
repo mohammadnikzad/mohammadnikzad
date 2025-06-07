@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohammad Nikzad
 
-<!--
-**mohammadnikzad/mohammadnikzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | Node.js Expert | API Specialist | React Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Backend Developer** with **7+ years of experience**, specializing in building scalable, efficient, and user-friendly web applications. My expertise spans both **backend development** and **frontend technologies**, with a focus on delivering clean architecture and seamless user experiences.
+
+---
+
+## 🔧 **Technical Skills**
+
+### **Frontend Development**
+
+- **Markup Languages:** HTML3, HTML5, CSS, CSS3, JSON
+- **Scripting Language:** JavaScript (ES6, ES7)
+- **Frameworks & Libraries:** ReactJS, NextJS, TypeScript, Functional Components, Reusable Components, Context API, Reducers, Hooks, React Router, Redux, React Query, SWR, Google Map, Leaflet, Toolkit
+- **UI Frameworks:** Bootstrap, Tailwind CSS, Material UI, jQuery
+
+### **Backend Development**
+
+- **Technologies:** NodeJS, Express.js, NestJS Mongoose
+- **Database:** MySQL, MongoDB
+- **APIs:** RESTful APIs, Firebase Authentication
+
+### **Other Skills**
+
+- **Tools & Platforms:** Vercel Deployment, GSAP, AOS
+- **Development Tools:** WebStorm, Visual Studio Code, XAMPP, MySQL Workbench, Jira
+- **Version Control:** Git, GitHub
+
+---
+
+## 🌟 **Projects**
+
+### [MatnNama](https://www.matnnama.ir)
+
+**Tech Stack:** ReactJS, NodeJS, MongoDB
+
+- Developed a feature-rich **e-commerce platform** with an intuitive UI/UX.
+- Integrated payment gateway and secure user authentication.
+- Optimized website performance for seamless shopping experiences.
+
+### [JPVision](https://www.portal.jpvision.it)
+
+**Tech Stack:** ReactJS, Express, MongoDB
+
+- Created a vibrant **art & craft website** showcasing creative works.
+- Implemented dynamic product displays and streamlined database management.
+
+### [Ryan Funding](https://www.ryan-funding.ir
+
+**Tech Stack:** ReactJS, Express, MongoDB
+
+- Created a vibrant **art & craft website** showcasing creative works.
+- Implemented dynamic product displays and streamlined database management.
+
+---
+
+## 🎓 **Education**
+
+**Computer Software Engineering**  
+**Islamic Azad University**, Tehran, Iran
+
+## 🤝 **Let's Connect!**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikzadme/)
+- 📫 **Email:** nikzad.engineer@gmail.com
